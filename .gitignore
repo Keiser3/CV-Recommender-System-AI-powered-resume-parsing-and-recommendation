@@ -1,0 +1,6 @@
+node_modules/
+*.pyc
+*.log
+.env
+temp/
+backend/.venv/

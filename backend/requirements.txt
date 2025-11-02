@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+sqlalchemy
+databases[sqlite]
+python-magic
+pymupdf
+requests
+sentence-transformers
+faiss-cpu
+python-dotenv
+httpx
+aiofiles
